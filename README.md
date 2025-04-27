@@ -90,7 +90,7 @@ src/
 
 ## 🚀 Launch Your Connectivity - Deployment
 
-Ready to share Leamigo eSIM with the world? Deployment to [Vercel](https://vercel.com/new) is seamless and highly recommended for Next.js applications.
+Ready to share Leamigo eSIM with the world? Deployment to [Netlify](https://www.netlify.com) is seamless and highly recommended for Next.js applications.
 
 For detailed deployment instructions, refer to the comprehensive [Next.js Deployment Guide](https://nextjs.org/docs/app/building-your-application/deploying).
 
